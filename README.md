@@ -1,4 +1,5 @@
 # 김승회 포트폴리오
+-<img width="354" height="472" alt="9-9-1 (1)" src="https://github.com/user-attachments/assets/5ee3e1f9-97a3-4498-a7a4-66cd3a0be94a" />
 
 - 학교/전공: 대구대학교 컴퓨터소프트웨어전공
 - 이메일: sdagqg@gmail.com
@@ -45,7 +46,8 @@
 
 **결과**
 
-**배운 점**
+**배운 점**![Uploading 9-9-1 (1).jpg…]()
+
 
 ---
 
